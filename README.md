@@ -7,3 +7,11 @@ Those Games are crreated with Python. At first, without UI, played trough the co
 - story generator
 - trivia quiz
 - guess dataset column
+
+## Algorithms
+- bubble sort
+
+## Turtle
+- colourul heart 
+- heart in heart
+- text heart (WIP)
