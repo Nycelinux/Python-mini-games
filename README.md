@@ -5,3 +5,5 @@ Those Games are crreated with Python. At first, without UI, played trough the co
 - dice roll
 - rock, paper, scissors
 - story generator
+- trivia quiz
+- guess dataset column
