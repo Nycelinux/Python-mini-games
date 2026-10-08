@@ -13,5 +13,5 @@ Those Games are crreated with Python. At first, without UI, played trough the co
 
 ## Turtle
 - colourul heart 
-- heart in heart (Wip)
+- heart in heart
 - text heart (WIP)
