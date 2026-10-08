@@ -1,7 +1,7 @@
-#WIP: Python MiniGames
+# WIP: Python MiniGames
 Those Games are crreated with Python. At first, without UI, played trough the console. Database and UI might come later.
 
-##Games:
+## Games:
 - dice roll
 - rock, paper, scissors
 - story generator
